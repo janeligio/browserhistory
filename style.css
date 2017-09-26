@@ -14,5 +14,5 @@ h2 {
 }
 
 img {
-  float: left;
+  display: inline-block;
 }
