@@ -1,18 +1,23 @@
 
 body {
   font-family: Open Sans, serif;
-  color: darkblue;
+  color: DarkBlue;
   margin: 10px 50px;
   background-color: ivory;
 }
+
 h1 {
   font-family: Oswald, serif;
 }
 
 h2 {
-  font-family: Oswald, Serif, serif;
+  font-family: Oswald, serif;
+}
+
+.image-and-text {
+  display: inline;
 }
 
 img {
-  display: inline-block;
+  float: left;
 }
