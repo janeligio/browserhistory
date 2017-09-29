@@ -28,7 +28,3 @@ div .center {
 .columns div {
   padding : 1em;
 }
-ol {
-  column-count: 4;
-  list-style-type: none;
-}
