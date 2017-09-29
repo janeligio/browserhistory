@@ -23,8 +23,7 @@ div .right {
   width: 300px;
 }
 div .center {
-  margin-left: 300px;
-  margin-right: 300px;
+  width: auto;
 }
 .columns div {
   padding : 1em;
