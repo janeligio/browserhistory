@@ -14,11 +14,21 @@ img {
   float: left;
 }
 
-.columns {
-  column-count: 3;
-  column-width: 300px;
+div .left {
+  float: left;
+  width: 300px;
 }
-
+div .right {
+  float: right;
+  width: 300px;
+}
+div .center {
+  margin-left: 300px;
+  margin-right: 300px;
+}
+.columns div {
+  padding : 1em;
+}
 ol {
   column-count: 4;
   list-style-type: none;
