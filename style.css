@@ -1,34 +1,7 @@
+body{
+  margin: 50px;
+}
+h1{
+  color: #1E70BF;
 
-body {
-  font-family: Open Sans, serif;
-  color: DarkBlue;
-  margin: 10px 50px;
-  background-color: ivory;
-}
-
-h1, h2 {
-  font-family: Oswald, serif;
-}
-
-img {
-  float: left;
-}
-
-div .left {
-  float: left;
-  width: 300px;
-}
-div .right {
-  float: right;
-  width: 300px;
-}
-div .center {
-  width: auto;
-}
-.columns div {
-  padding : 1em;
-}
-ol {
-  column-count: 4;
-  list-style-type: none;
 }
